@@ -114,5 +114,4 @@ VERDICT: DANGEROUS - Possible phishing attempt
 
 **Ibel Lagos**
 
-🌐 Portfolio
-https://ibel-lagos.github.io/cybersecurity-web
+
